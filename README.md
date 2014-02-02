@@ -1,9 +1,7 @@
 imaygou
 =======
 
-参加爱美购面试做的题目
-
-要求：
+题目要求：
 
         下面有两个小任务，一个是想看看你的css技术，另一个则是想看看你的js技术。
 
@@ -16,4 +14,14 @@ imaygou
         如果真的对我们公司有兴趣，就抓紧时间做一下咯。
 
 附件：
-  [一张jpg图片。。](http://ww4.sinaimg.cn/large/661cd088gw1ed5ezze6k2j21jk12wqc9.jpg)
+
+[一张jpg图片。。](http://ww4.sinaimg.cn/large/661cd088gw1ed5ezze6k2j21jk12wqc9.jpg)
+
+我做的：
+
+1. http://qusiba.github.io/imaygou/
+2. http://qusiba.github.io/snake/
+        
+说明：
+
+页面这道题没有做浏览器兼容（只在chrome下调试过）。因为题目提供的是一张没有分层的jpg图片，而且要求页面制作中不要用到图片，所以有些icon是以字体的方式引用的，但是实在找不到左右箭头的那个icon。
